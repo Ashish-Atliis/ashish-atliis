@@ -5,7 +5,7 @@
 📍 Hyderabad, India
 
 ## 👨‍💻 About Me
-I help businesses replace spreadsheets and fragmented systems with scalable Odoo ERP solutions.
+I help businesses fragmented systems with scalable Odoo ERP solutions.
 
 I work on real-world ERP implementations including custom modules, performance optimization, automation, and third-party integrations.
 
