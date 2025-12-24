@@ -5,11 +5,13 @@
 📍 Hyderabad, India
 
 ## 👨‍💻 About Me
-I help businesses streamline operations and scale using Odoo ERP.
-I work on real-world ERP implementations, custom modules, automation, and integrations.
+I help businesses replace spreadsheets and fragmented systems with scalable Odoo ERP solutions.
+
+I work on real-world ERP implementations including custom modules, performance optimization, automation, and third-party integrations.
+
 
 ## 🛠️ Tech Stack
-- Odoo 
+- Odoo 16/17/18/19
 - Python, PostgreSQL
 - ERP Customization & Automation
 - REST APIs & Integrations
